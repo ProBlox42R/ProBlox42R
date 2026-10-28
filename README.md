@@ -1,3 +1,3 @@
  - Hi, I am ItsProB from ProBloxWorld
- - I will make things for minecraft and stuf like this!
+ - I will make things for minecraft and stuff like this!
  - Email: deyan@probloxworld.com
