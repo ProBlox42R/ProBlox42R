@@ -39,8 +39,8 @@ A centralized hub for my web applications, backend services, network tools, and 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsProB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsProB&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="150" />
 </div>
 
 <div align="center">
